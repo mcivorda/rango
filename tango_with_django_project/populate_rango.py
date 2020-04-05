@@ -25,7 +25,7 @@ def populate():
         {'title':'Official Django Tutorial',
          'url':'https://docs.djangoproject.com/en/2.1/intro/tutorial01/'},
         {'title':'Django Rocks',
-         'url':'http://www.djangorocks.com/'}
+         'url':'http://www.djangorocks.com/'},
         {'title':'How to Tango with Django',
          'url':'http://www.tangowithdjango.com/'} ]
 
