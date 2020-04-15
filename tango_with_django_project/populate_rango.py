@@ -37,7 +37,7 @@ def populate():
 
     other_pages = [
         {'title': 'Bottle',
-         'url': 'http://www.bottlepy.org/docs/dev/',
+         'url': 'http://bottlepy.org/docs/dev/',
          'views': 70},
         {'title': 'Flask',
          'url': 'http://flask.pocoo.org',
