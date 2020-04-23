@@ -18,6 +18,11 @@
     {% endif %} <br />
     <strong>{{ boldmessage }}</strong>
 </div>
+
+<div>
+    <p>Visits: {{ visits }}</p>
+</div>
+
 <div>
     <h2>Most Liked Categories</h2>
     {% if categories %}
@@ -49,10 +54,6 @@
 <div>
     <img src="{% static 'images/rango.jpg' %}"
          alt="Picture of Rango"/>
-</div>
-
-<div>
-    <p>Visits: {{ visits }}</p>
 </div>
 
 {% endblock %}
